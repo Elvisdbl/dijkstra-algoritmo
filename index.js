@@ -22,6 +22,8 @@ const Grafo = {
     },
 };
 
+// test
+
 /*
    DIJKSTRA (Grafo G, nodo_fuente s)       
        para u ∈ V[G] hacer
